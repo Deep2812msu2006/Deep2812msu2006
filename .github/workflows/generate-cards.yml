@@ -1,0 +1,52 @@
+name: Generate README Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  generate-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch all cards as static SVGs
+        env:
+          USER: Deep2812msu2006
+          THEME: teal
+        run: |
+          mkdir -p assets
+          fetch() {
+            url="$1"; out="$2"
+            tmp="$(mktemp)"
+            if curl -sfL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" --max-time 30 "$url" -o "$tmp" \
+               && head -c 200 "$tmp" | grep -qi "svg"; then
+              mv "$tmp" "assets/$out"
+              echo "OK   -> $out"
+            else
+              echo "SKIP -> $out (fetch failed, keeping previous version)"
+              rm -f "$tmp"
+            fi
+          }
+          fetch "https://streak-stats.demolab.com/?user=${USER}&theme=dark&hide_border=true&background=0D1117&ring=0D9488&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=94A3B8" "streak.svg"
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=${USER}&theme=react-dark&bg_color=0D1117&color=14B8A6&line=0D9488&point=E2E8F0&hide_border=true&area=true&area_color=0F766E" "activity-graph.svg"
+
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: refresh README cards [skip ci]"
+            git push
+          fi
