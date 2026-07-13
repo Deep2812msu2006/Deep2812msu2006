@@ -324,9 +324,9 @@ Deep Jaiswal has implemented the following key core systems inside the official 
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Deep2812msu2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=94A3B8" alt="GitHub Stats"/>
+<img src="./assets/stats.svg" alt="GitHub Stats"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deep2812msu2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8" alt="Top Languages"/>
+<img src="./assets/top-langs.svg" alt="Top Languages"/>
 
 </div>
 
