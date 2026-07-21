@@ -35,10 +35,11 @@ jobs:
               rm -f "$tmp"
             fi
           }
-          fetch "https://streak-stats.demolab.com/?user=${USER}&theme=dark&hide_border=true&background=0D1117&ring=0D9488&fire=14B8A6&currStreakLabel=14B8A6&sideLabels=14B8A6&dates=94A3B8" "streak.svg"
-          fetch "https://github-readme-activity-graph.vercel.app/graph?username=${USER}&theme=react-dark&bg_color=0D1117&color=14B8A6&line=0D9488&point=E2E8F0&hide_border=true&area=true&area_color=0F766E" "activity-graph.svg"
-          fetch "https://github-stats-extended.vercel.app/api?username=${USER}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=94A3B8" "stats.svg"
-          fetch "https://github-stats-extended.vercel.app/api/top-langs?username=${USER}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=94A3B8" "top-langs.svg"
+          fetch "https://streak-stats.demolab.com/?user=${USER}&theme=dark&hide_border=true&background=0D1117&ring=7000FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&dates=94A3B8" "streak.svg"
+          fetch "https://github-readme-activity-graph.vercel.app/graph?username=${USER}&theme=react-dark&bg_color=0D1117&color=00F0FF&line=7000FF&point=E2E8F0&hide_border=true&area=true&area_color=241442" "activity-graph.svg"
+          fetch "https://github-stats-extended.vercel.app/api?username=${USER}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF&text_color=94A3B8" "stats.svg"
+          fetch "https://github-stats-extended.vercel.app/api/top-langs?username=${USER}&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=94A3B8" "top-langs.svg"
+
 
 
       - name: Commit and push if changed
