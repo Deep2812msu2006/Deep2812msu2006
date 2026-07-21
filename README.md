@@ -1,25 +1,25 @@
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    ⚡ DEEP JAISWAL — PROFILE README ║ -->
-<!-- ║         Teal-Themed • Backend Specialist • Full-Stack Engineer    ║ -->
+<!-- ║                    🔮 DEEP JAISWAL — PROFILE README              ║ -->
+<!-- ║         Cyberpunk • Backend Specialist • Systems Developer        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ===================== HERO BANNER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:042F2E,60:0F766E,100:0D9488&height=240&section=header&text=DEEP%20JAISWAL&fontSize=56&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Backend-Heavy%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=60&descSize=18&descColor=99F6E4" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1E1E38,60:7000FF,100:00F0FF&height=240&section=header&text=DEEP%20JAISWAL&fontSize=56&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Backend-Heavy%20Full-Stack%20Developer%20%E2%80%A2%20Systems%20Engineer&descAlignY=60&descSize=18&descColor=A5F3FC" width="100%"/>
 
 <br/>
 
 <!-- ===================== TYPING SVG ===================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=14B8A6&center=true&vCenter=true&multiline=false&width=850&lines=%F0%9F%9A%80+Backend-Heavy+Full-Stack+Developer;%F0%9F%92%BB+Building+secure%2C+scalable+APIs+%26+database+engines;%E2%9A%A1+Node.js+%7C+Express.js+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Postgres;%F0%9F%8E%AF+Passionate+about+System+Design+%26+Web+Security;%F0%9F%8E%93+CSE+Student+%40+The+MSU+of+Baroda" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&multiline=false&width=850&lines=%F0%9F%9A%80+Backend-Heavy+Full-Stack+Developer;%F0%9F%92%BB+Building+secure%2C+scalable+APIs+%26+database+engines;%E2%9A%A1+Node.js+%7C+Express.js+%7C+React+%7C+Next.js+%7C+NestJS+%7C+Postgres;%F0%9F%8E%AF+Passionate+about+System+Design+%26+Web+Security;%F0%9F%8E%93+CSE+Student+%40+The+MSU+of+Baroda" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- ===================== PROFILE BADGES & SOCIAL LINKS ===================== -->
 <a href="https://www.google.com/maps?q=Vadodara,+India" target="_blank">
-  <img src="https://img.shields.io/badge/BASED%20IN-Vadodara,%20India-0D9488?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
+  <img src="https://img.shields.io/badge/BASED%20IN-Vadodara,%20India-7000FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/deep-jaiswal-2812/" target="_blank">
@@ -35,7 +35,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/Deep2812msu2006" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 
 <br/><br/>
@@ -46,47 +46,41 @@
 
 <br/>
 
-<!-- ===================== ABOUT ME SECTION ===================== -->
-## 👤 About Me
+<!-- ===================== SYSTEM PROFILE SECTION ===================== -->
+## 👤 Developer Profile
 
-<table width="100%" border="0">
+<div align="center">
+<table width="95%" border="0">
   <tr>
-    <td width="55%" valign="top">
-      <h3>🚀 Engineering Impact</h3>
-      <p>I am a <b>Backend-Heavy Full-Stack Developer</b> currently pursuing my B.E. in Computer Science & Engineering at <b>The Maharaja Sayajirao University of Baroda</b>.</p>
-      
-      <ul>
-        <li>⚙️ <b>Backend First</b>: Passionate about designing robust, secure server-side architectures, database schemas, and API performance.</li>
-        <li>🎓 <b>CSE Undergrad</b>: Applying theoretical computer science principles directly to real-world, high-traffic systems.</li>
-        <li>💡 <b>Code Vimarsh Developer</b>: Designing and shipping production-grade platform modules and administrative systems.</li>
-        <li>🤝 <b>Collaborative Partner</b>: Ready to build and scale backend engines, optimize database structures, and win hackathons.</li>
-      </ul>
-      <p><i>Ask me about Express/NestJS routing, JWT security, Prisma hooks, or PostgreSQL indexing!</i></p>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="180" style="border-radius: 12px;" alt="Developer GIF"/>
     </td>
-    <td width="45%" valign="top">
-      <h3>⚙️ System Profile</h3>
-      
-```typescript
-const deepJaiswal = {
-  pronouns: "He / Him",
-  role: "Backend & Systems Developer",
-  education: {
-    degree: "B.E. Computer Science & Engineering",
-    university: "The MSU of Baroda",
-    expected: "2024 — 2028"
-  },
-  skills: {
-    runtimes: ["Node.js", "Bun"],
-    frameworks: ["NestJS", "Express.js", "Next.js"],
-    databases: ["PostgreSQL", "MongoDB", "Prisma"],
-    auth: ["JWT", "OAuth"]
-  },
-  focus: "Scaling APIs & System Design 🚀"
-};
-```
+    <td width="70%" valign="top">
+      <pre style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 16px; color: #c9d1d9; font-family: 'JetBrains Mono', monospace; font-size: 14px; line-height: 1.5; text-align: left;">
+<b><font color="#00F0FF">deep@jaiswal-systems</font></b>
+<font color="#7000FF">--------------------</font>
+<b>OS</b>: B.E. Computer Science & Engineering (2024 - 2028)
+<b>Host</b>: The Maharaja Sayajirao University of Baroda
+<b>Kernel</b>: Node.js | Express.js | NestJS | Postgres
+<b>Uptime</b>: Vadodara, India 🇮🇳
+<b>Shell</b>: Zsh (TypeScript, Javascript, Python, C++, Java)
+<b>Status</b>: Active • Backend-Heavy Full-Stack Developer
+<b>Mission</b>: Building secure, high-scale database & API engines 🚀
+      </pre>
     </td>
   </tr>
 </table>
+</div>
+
+<br/>
+
+### 🌌 Engineering Impact
+- ⚙️ **Backend First**: Passionate about designing robust, secure server-side architectures, database schemas, and API performance.
+- 🎓 **CSE Undergrad**: Applying theoretical computer science principles directly to real-world, high-traffic systems.
+- 💡 **Code Vimarsh Developer**: Designing and shipping production-grade platform modules and administrative systems.
+- 🤝 **Collaborative Partner**: Ready to build and scale backend engines, optimize database structures, and win hackathons.
+
+*Ask me about Express/NestJS routing, JWT security, Prisma hooks, or PostgreSQL indexing!*
 
 <br/>
 <div align="center">
@@ -98,63 +92,71 @@ const deepJaiswal = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="220" alt="tech stack animation"/>
-
-<br/><br/>
-
 ### 🗄️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" alt="Node.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" width="40" height="40" alt="NestJS"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/E2E8F0" width="40" height="40" alt="Express.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/fastapi/009688" width="40" height="40" alt="FastAPI"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/jsonwebtokens/E2E8F0" width="40" height="40" alt="JWT"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/prisma/E2E8F0" width="40" height="40" alt="Prisma"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="PostgreSQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" alt="MongoDB"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="40" height="40" alt="Supabase"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" height="40" alt="Firebase"/>
+</p>
 
 ### 💻 Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" alt="TypeScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" alt="C++"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" alt="C"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/E2E8F0" width="40" height="40" alt="Java"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="PHP"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" alt="CSS3"/>
+</p>
 
 ### 🌐 Frontend & Styling
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Radix UI](https://img.shields.io/badge/Radix_UI-161616?style=for-the-badge&logo=radixui&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" alt="React"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/E2E8F0" width="40" height="40" alt="Next.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vite/646CFF" width="40" height="40" alt="Vite"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" height="40" alt="Tailwind CSS"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/radixui/E2E8F0" width="40" height="40" alt="Radix UI"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/web3dotjs/F16822" width="40" height="40" alt="Web3.js"/>
+</p>
 
 ### 🛠️ Cloud, DevOps & Integration
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C8BC?style=for-the-badge&logo=netlify&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/googlecloud/4285F4" width="40" height="40" alt="Google Cloud"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="Postman"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/vercel/E2E8F0" width="40" height="40" alt="Vercel"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/render/000000" width="40" height="40" alt="Render"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/netlify/00C8BC" width="40" height="40" alt="Netlify"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="Git"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/E2E8F0" width="40" height="40" alt="GitHub"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="40" height="40" alt="GitLab"/>
+</p>
 
 ### 📊 Libraries, AI & Analytics
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40" alt="PyTorch"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" alt="Pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/plotly/E2E8F0" width="40" height="40" alt="Matplotlib"/>
+</p>
 
 ### 🎨 Design & Prototyping
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
+<p align="center">
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40" alt="Canva"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/0055FF" width="40" height="40" alt="Framer"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dribbble/EA4C89" width="40" height="40" alt="Dribbble"/>
+</p>
 
 </div>
 
@@ -169,50 +171,42 @@ const deepJaiswal = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <div align="right"><code>Active</code></div>
       <h3>🚀 Code Vimarsh (Official Web App)</h3>
       <p><b>University Event Portal • Full-Stack Systems</b></p>
       <p>The official portal for the university's technical event. Optimized backend schemas, handled database hooks for duplicates prevention, secured administrative panels, and moved storage pipelines to Cloudinary.</p>
       <p>🛠️ <b>Role:</b> Core Backend & Admin Flow Developer</p>
       <br/>
-      <img src="https://img.shields.io/badge/React-042F2E?style=flat-square&logo=react&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/Node.js-042F2E?style=flat-square&logo=nodedotjs&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/Express-042F2E?style=flat-square&logo=express&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/Postgres-042F2E?style=flat-square&logo=postgresql&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/Cloudinary-042F2E?style=flat-square&logo=cloudinary&logoColor=14B8A6">
+      <code>React</code> &nbsp; <code>Node.js</code> &nbsp; <code>Express</code> &nbsp; <code>Postgres</code> &nbsp; <code>Cloudinary</code>
     </td>
     <td width="50%" valign="top">
+      <div align="right"><code>Completed</code></div>
       <h3>💼 Odoo Hackathon System</h3>
       <p><b>Enterprise Orchestration • Collaborative Sprint</b></p>
       <p>A collaborative database and transaction microservice built during the Odoo Hackathon. Focused on building responsive API controllers and database structures under strict timelines.</p>
-      <p>🤝 <b>Team:</b> Built with @dharmikpatel2006msu & @Khatri-369</p>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-042F2E?style=flat-square&logo=typescript&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/Node.js-042F2E?style=flat-square&logo=nodedotjs&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/Postgres-042F2E?style=flat-square&logo=postgresql&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/Express-042F2E?style=flat-square&logo=express&logoColor=14B8A6">
+      <p>🤝 <b>Team:</b> @dharmikpatel2006msu & @Khatri-369</p>
+      <br/>
+      <code>TypeScript</code> &nbsp; <code>Node.js</code> &nbsp; <code>Postgres</code> &nbsp; <code>Express</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <div align="right"><code>Active</code></div>
       <h3>🌐 Arbitrum Builder Pod Website</h3>
       <p><b>Web Presence • Blockchain Ecosystem Showcase</b></p>
       <p>Web portal constructed to display and coordinate developer initiatives within the Arbitrum developer pod. Main priority was fluid styling, responsiveness, and clean performance.</p>
       <p>⛓️ <b>Ecosystem:</b> Arbitrum L2 Network</p>
       <br/>
-      <img src="https://img.shields.io/badge/TypeScript-042F2E?style=flat-square&logo=typescript&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/React-042F2E?style=flat-square&logo=react&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/Vite-042F2E?style=flat-square&logo=vite&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/Tailwind-042F2E?style=flat-square&logo=tailwindcss&logoColor=14B8A6">
+      <code>TypeScript</code> &nbsp; <code>React</code> &nbsp; <code>Vite</code> &nbsp; <code>Tailwind</code>
     </td>
     <td width="50%" valign="top">
+      <div align="right"><code>Staging</code></div>
       <h3>🧪 QA Testing Sandboxes</h3>
       <p><b>QA Sandboxes • Staging Playground</b></p>
       <p>Staging environment to prototype features, validate database models, verify inputs, and test styling logic before production integration.</p>
       <p>🛠️ <b>Collaborators:</b> @Aryanbuha890 & @krushit1307</p>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/HTML5-042F2E?style=flat-square&logo=html5&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/CSS3-042F2E?style=flat-square&logo=css3&logoColor=14B8A6">
-      <img src="https://img.shields.io/badge/JavaScript-042F2E?style=flat-square&logo=javascript&logoColor=14B8A6">
+      <br/>
+      <code>HTML5</code> &nbsp; <code>CSS3</code> &nbsp; <code>JavaScript</code>
     </td>
   </tr>
 </table>
@@ -271,11 +265,11 @@ I have engineered and deployed the following backend systems inside the official
     *   *Foundational Mathematics, Science, and Information Technology*
 
 ### 🌍 Languages
-![English](https://img.shields.io/badge/English-Fluent-0D9488?style=flat-square)
+![English](https://img.shields.io/badge/English-Fluent-7000FF?style=flat-square)
 &nbsp;
-![Hindi](https://img.shields.io/badge/Hindi-Native-0D9488?style=flat-square)
+![Hindi](https://img.shields.io/badge/Hindi-Native-7000FF?style=flat-square)
 &nbsp;
-![Gujarati](https://img.shields.io/badge/Gujarati-Conversational-0D9488?style=flat-square)
+![Gujarati](https://img.shields.io/badge/Gujarati-Conversational-7000FF?style=flat-square)
 
 <br/>
 <div align="center">
@@ -335,11 +329,11 @@ I have engineered and deployed the following backend systems inside the official
 </a>
 &nbsp;
 <a href="https://github.com/Deep2812msu2006" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,30:0F766E,60:042F2E,100:0D1117&height=140&section=footer&text=Keep%20Optimizing%20%E2%9A%A1&fontSize=24&fontColor=E2E8F0&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,30:7000FF,60:1E1E38,100:0D1117&height=140&section=footer&text=Keep%20Optimizing%20%E2%9A%A1&fontSize=24&fontColor=E2E8F0&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 </div>
